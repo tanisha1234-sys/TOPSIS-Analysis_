@@ -18,7 +18,11 @@ TOPSIS (*Technique for Order of Preference by Similarity to Ideal Solution*) is 
 - Supports flexible .csv input and output formats.
 
 ---
+##    TOPSIS PyPI Package link:
 
+pip install topsis-Tanisha-102203818
+
+---
 ## 🔧 Installation Guide
 
 Install the package directly from PyPI:
