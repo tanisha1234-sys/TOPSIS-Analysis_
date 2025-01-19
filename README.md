@@ -32,11 +32,11 @@ pip install topsis-Tanisha-102203818
 
 
 Alternatively, clone the GitHub repository to use it locally:
-bash
+```bash
 git clone https://github.com/tanisha1234-sys/topsis-Tanisha-102203818.git
 cd topsis-Tanisha-102203818
 pip install -r requirements.txt
-
+```
 
 ---
 
