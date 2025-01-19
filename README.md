@@ -17,17 +17,18 @@ TOPSIS (*Technique for Order of Preference by Similarity to Ideal Solution*) is 
 - Provides accurate scores and ranks for alternatives based on the TOPSIS methodology.
 - Supports flexible .csv input and output formats.
 
----
-##    TOPSIS PyPI Package link:
 
-pip install topsis-Tanisha-102203818
 
 ---
 ## 🔧 Installation Guide
+You can install the package via PyPI:  
 
-Install the package directly from PyPI:
-bash
+[https://pypi.org/project/topsis-Tanisha-102203818/](https://pypi.org/project/topsis-Tanisha-102203818/)
+
+
+```bash
 pip install topsis-Tanisha-102203818
+```
 
 
 Alternatively, clone the GitHub repository to use it locally:
